@@ -13,6 +13,7 @@
     "@react-oauth/google": "^0.12.1",
     "antd": "^5.18.3",
     "deps": "^1.0.0",
+    "firebase": "^10.12.2",
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.8.2",
     "react": "^18.2.0",
